@@ -16,6 +16,8 @@ echo        ░ ░ ▒  ░  ░ ▒ ▒░   ░ ▒ ▒░ ░▒ ░     ░
 echo           ░ ░   ░ ░ ░ ▒  ░ ░ ░ ▒  ░░       ░  ░  ░  
 echo             ░  ░    ░ ░      ░ ░                 ░
 
+echo Made By Loops https://discord.gg/8MEQ2gdt
+
 
 :: Demander le webhook Discord
 set /p webhook="Entrez le webhook Discord: "
